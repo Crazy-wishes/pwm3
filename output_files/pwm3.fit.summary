@@ -1,0 +1,12 @@
+Fitter Status : Successful - Mon Sep 10 22:49:26 2018
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : pwm3
+Top-level Entity Name : pwm3
+Family : Cyclone
+Device : EP1C3T100C8
+Timing Models : Final
+Total logic elements : 215 / 2,910 ( 7 % )
+Total pins : 10 / 65 ( 15 % )
+Total virtual pins : 0
+Total memory bits : 0 / 59,904 ( 0 % )
+Total PLLs : 0 / 1 ( 0 % )
